@@ -1,4 +1,4 @@
-# caeser_cipher
+# caesar_cipher
 Ruby Exercise - Caesar Cipher
 This is an exercise from the Odin Project, Ruby.
 
